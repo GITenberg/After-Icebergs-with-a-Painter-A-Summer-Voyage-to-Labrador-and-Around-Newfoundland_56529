@@ -1,11 +1,16 @@
 _repo: After-Icebergs-with-a-Painter-A-Summer-Voyage-to-Labrador-and-Around-Newfoundland_56529
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56529-h/images/cover.jpg
 creator:
   author:
     agent_name: Noble, Louis Legrand
     gutenberg_agent_id: '48904'
     url: http://www.gutenberg.org/2009/agents/48904
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56529#After-Icebergs-with-a-Painter-A-Summer-Voyage-to-Labrador-and-Around-Newfoundland
 gutenberg_issued: '2018-02-08'
 gutenberg_type: Text
 identifiers:
